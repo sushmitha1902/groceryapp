@@ -1,0 +1,23 @@
+[
+  {
+    "name": "yoghurt",
+    "description": "a semi-solid food prepared from milk fermented by added bacteria, often sweetened and flavoured",
+    "sku": "yog/sna",
+    "price": 0.9,
+    "image": "yoghurt"
+  },
+  {
+    "name": "biscuit",
+    "description": "a small baked unleavened cake, typically crisp, flat, and sweet",
+    "sku": "bis/sna",
+    "price": 1.5,
+    "image": "biscuit"
+  },
+  {
+    "name": "cookie",
+    "description": "a sweet biscuit having a fairly soft, chewy texture and typically containing pieces of chocolate or fruit",
+    "sku": "bis/sna",
+    "price": 1.2,
+    "image": "cookie"
+  }
+]
